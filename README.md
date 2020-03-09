@@ -1,6 +1,6 @@
 # [Project Name](https://github.com/ayohana/ProjectName.git/)
 
-#### C# Basics & Behavior Driven Development Exercise for [Epicodus](https://www.epicodus.com/), 03.03.2020
+#### C# & MVC Pattern Exercise for [Epicodus](https://www.epicodus.com/), 03.08.2020
 
 #### By [**Adela Darmansyah**](https://ayohana.github.io/portfolio/)
 
