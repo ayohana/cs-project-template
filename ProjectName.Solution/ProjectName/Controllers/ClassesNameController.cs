@@ -7,7 +7,11 @@ namespace ProjectName.Controllers
   public class ClassesNameController : Controller
   {
 
-    // HttpGet and HttpPost routes go here
+    // [HttpGet("/classesname")]
+    // public ActionResult Index()
+    // {
+    //   return View();
+    // }
 
   }
 }

@@ -1,6 +1,6 @@
 # [Project Name](https://github.com/ayohana/ProjectName.git/)
 
-#### C# & MVC Pattern Exercise for [Epicodus](https://www.epicodus.com/), 03.08.2020
+#### C# Basic Web Applications Exercise for [Epicodus](https://www.epicodus.com/), 03.11.2020
 
 #### By [**Adela Darmansyah**](https://ayohana.github.io/portfolio/)
 
@@ -47,7 +47,7 @@ Feel free to provide feedback via email: adela.yohana@gmail.com.
 
 * C#
 * [.NET Core](https://dotnet.microsoft.com/download/dotnet-core/)
-* Markdown
+* MVC Pattern
 
 ### License
 
